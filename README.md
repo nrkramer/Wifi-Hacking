@@ -1,5 +1,10 @@
 # Wifi-Hacking
 WiFi hacking with aircrack-ng support scripts.
-1. Clone this repo.
-2. chmod +x *.sh
-3. ./wpa_crack.sh
+```bash
+# 1) Clone this repo.
+# 2) Make scripts executable
+# 3) Have fun!
+git clone https://github.com/nrkramer/Wifi-Hacking.git
+chmod +x *.sh
+./wpa_crack.sh
+```
